@@ -1,9 +1,3 @@
-
-
-![微信小助手.png](./Other/ScreenShots/wechatplugin.png)
-
-![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  [![release](https://img.shields.io/badge/release-v1.7.5-brightgreen.svg)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases)  ![support](https://img.shields.io/badge/support-wechat%202.3.22-blue.svg)  [![Readme](https://img.shields.io/badge/readme-english-yellow.svg)](./README_EN.md)   [![GitHub license](https://img.shields.io/github/license/TKkk-iOSer/WeChatPlugin-MacOS.svg)](./LICENSE)
-
 # 微信小助手 v1.7.5
 
  **[English](./README_EN.md) | 中文**
@@ -196,19 +190,9 @@ curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install
 - [x] 支持中英文
 - [ ] 支持深色模式
 
----
-
-## 依赖
-
-* [insert_dylib](https://github.com/Tyilo/insert_dylib)
-* [fishhook](https://github.com/facebook/fishhook)
-* [GCDWebServer](https://github.com/swisspol/GCDWebServer)
-
----
-
 ### 免责声明
 * 使用插件有风险，使用需谨慎。
 * 本项目旨在提升生活幸福感使用，不可用于商业和个人其他意图。若使用不当，请使用者自行承担。
-* 如有侵权，请联系本人。tkk.ioser@gmail.com
+* 本人旨在分享此开源项目，如有侵权，请联系本人删除。576171418@qq.com
 
 
